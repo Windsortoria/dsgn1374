@@ -1,0 +1,74 @@
+/* Images */
+
+* {
+	box-sizing: border-box;
+}
+
+<html>
+<head>
+<style>
+div {
+	width: 100px;
+	line-height: 100px;
+	position: relative;
+  	animation-name: mymove;
+  	animation-duration: 5s;
+  	@keyframes mymove {
+	from {left:0px;}
+	to {left:200px;}
+}
+</style>
+</head>
+<body>
+}
+
+body {
+	background: rgb(109,245,57);
+	background: radial-gradient(circle, rgba(109,245,57,1) 0%, rgba(18,151,233,1) 35%, 
+	rgba(166,27,232,1) 70%, rgba(218,14,174,1) 100%);	color: black;
+	font-family: Helvetica, Arial, sans-serif;
+	font-weight: normal;
+	line-height: 1.4;
+	font-size: 16px;
+	margin: 0.25em;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font-weight: bolder;
+	font-size: 48px;
+	border-style: dotted;
+	border-width: 2px;
+	animation-name: mymove;
+}
+
+h2 {
+	text-align: center;
+	font-weight: bold;
+	font-size: 24px;
+	text-underline-position: center;
+}
+
+img {
+	max-width: 100%;
+}
+
+.grid {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.item {
+	width: 100%;
+	padding: 0.50em;
+	background: rgb(237,240,7);
+	background: linear-gradient(165deg, rgba(237,240,7,1) 0%, rgba(241,17,19,1) 100%);
+	background-attachment: fixed;
+	background-position: center;
+}
+
+
+
