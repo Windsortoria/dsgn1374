@@ -1,0 +1,128 @@
+/* Type */
+<head></head> 
+
+body {
+	background-color: #2196F3;
+	display: block;
+	height: 12px;
+	margin-bottom: auto;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	text-align: left;
+	line-height: 1.4;
+    font-family: 'Tajawal', sans-serif;
+    font-weight: normal;
+	line-height: 14px;
+	font-size: 22px;
+	max-width: 25em;
+	padding: 8px;
+}
+
+p{
+	text-indent: 8;
+	font-size: 2em;
+	font-family: 'Tajawal', sans-serif;
+	font-weight: 600;
+  	float: left;
+  	height: 400px;
+ }
+
+h1{
+	font-size: 3em;
+	font-family: 'Tajawal', sans-serif;
+	font-weight: 200;
+	color: black;
+	width: 70px;
+  	border: 1px solid #c3c3c3;
+  	align-content: left;
+  	height: auto;
+}
+
+.groovy {
+	color: red;
+	font-family: 'Tajawal', sans-serif;
+	font-weight: 400;
+	display: block;
+	font-size: 2em;
+	max-width: 6em;
+	margin-right: 1em;
+	font-weight: bold;
+	position: absolute;
+	transform: rotate(-180deg);
+	line-height: 1em;
+	text-align: left;
+}
+
+.family {
+	color: orange;
+	font-family: 'Tajawal', sans-serif;
+	font-size: 1em;
+	font-weight: inherit;
+	height: 1000px;
+	line-height: 6px;
+	max-width: 10em;
+	position: absolute-left;
+	transform: rotate(-360deg);
+	width: 312.275px;
+	text-indent: 12em;
+}
+
+.groovy {
+	color: yellow;
+	font-family: "Tajawal', sans-serif;
+	font-weight: 200;
+	font-size: 2em;
+	max-width: 1em;
+	margin-right: 1em;
+	font-weight: bolder;
+	position: absolute;
+	transform: rotate(-90deg);
+	line-height: 1em;
+	vertical-align: center;
+}
+
+.love {
+	color: green;
+	font-family: 'Tajawal', sans-serif;
+	font-weight: 200;
+	max-width: 1em;
+	margin-bottom: 1.2em;
+	font-style: italic;
+	line-height: 2em;
+	text-align: right;
+}
+
+.peace {
+color: blue;
+	font-family: "Tajawal", sans-serif;
+	font-weight: 200;
+	transform: rotate(-125deg);
+	font-kerning: 1em;
+	font-size: 2em;
+	max-width: 1em;
+	margin-right: .5em;
+	font-weight: bold;
+	line-height: 3em;
+}
+
+.cheer{
+	color: purple;
+	transform: rotate(-185deg);
+	font-weight: 200;
+	font-size: 2em;
+	max-width: 15em;
+	max-height: 2em;
+	font-stretch: 1em;
+	shape-margin: line;
+}
+	
+
+
+
+
+
+
+
+
+
